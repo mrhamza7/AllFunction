@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidT</string>
+    <string name="error_name">Enter the valid Name</string>
+    <string name="error_email">Please enter the valid email</string>
+    <string name="error_contact_no">Enter the valid Contact Number</string>
+    <string name="error_password">Capital and small Latter Symbol Num</string>
+</resources>
